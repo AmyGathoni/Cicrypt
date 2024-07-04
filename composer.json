@@ -1,0 +1,7 @@
+{
+    "name": "gk/cicrypt",
+    "description": "Encryption and decryption project using PHP and Twilio API",
+    "require": {
+        "twilio/sdk": "^8.2"
+    }
+}
